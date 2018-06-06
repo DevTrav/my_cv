@@ -16,7 +16,7 @@
               <dt>Email:</dt>
               <dd><a href="mailto:mail@mail.com">mail@mail.com</a></dd>
               <dt>Address:</dt>
-              <dd>Melbourne Victoria 3000 Australia</dd>
+              <dd>Austin, Texas </dd>
             </dl>
           </div>
           <p class="personal-profile__social">

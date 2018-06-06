@@ -4,7 +4,6 @@
   <?php $this->load->view('head');?>
 </head>
 <body>
-
 <!--Switcher-->
   <div
   <?php $this->load->view('switcher');?>
