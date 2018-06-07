@@ -1,4 +1,3 @@
-<header class="main-header" style="background-image: url(assets/img/img_bg_header.jpg)">
     <div class="container">
       <div class="row personal-profile">
         <div class="col-md-4 personal-profile__avatar">
@@ -14,7 +13,7 @@
               <dt>Phone:</dt>
               <dd><a href="tel:82344563333">8 (234) 456-33-33</a></dd>
               <dt>Email:</dt>
-              <dd><a href="mailto:mail@mail.com">mail@mail.com</a></dd>
+              <dd><a href="mailto:mail@mail.com">info@lavillesolutions.com</a></dd>
               <dt>Address:</dt>
               <dd>Austin, Texas </dd>
             </dl>
@@ -27,4 +26,4 @@
         </div>
       </div>
     </div>
-  </header>
+  

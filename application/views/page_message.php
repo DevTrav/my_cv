@@ -23,10 +23,11 @@
 <!-- Mobile menu -->
 
 <!--Header-->
-  <head>
-    <?php $this->load->view('header');?>
-  </head>
+  <header class="main-header" style="background-image: url(assets/img/emerge.jpg)">
 
+    <?php $this->load->view('header');?>
+  
+</header>
 <!--Header-->
 
 
