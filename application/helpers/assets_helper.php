@@ -24,7 +24,7 @@ if (!function_exists('get_asset_path'))
     {
         //define base_url for use in switch statement
         //base_url() is a result of native Code Igniter URL Helper
-        $base_url = base_url();
+        $base_url = base_url().'assets/';
         
         switch ($asset_type) {
             
@@ -37,7 +37,7 @@ if (!function_exists('get_asset_path'))
             //used to generate direct path to css directory
             //correlates directly with [Application_Root]/images
             case "images":
-                $asset_type = $base_url.'images/';
+                $asset_type = $base_url.'img/';
                 break;
             
             //used to generate direct path to css directory
