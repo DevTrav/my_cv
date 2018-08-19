@@ -3,10 +3,8 @@
       <div class="col-md-10">
         <h2 id="resume_header" class="section__title">Resume_</h2>
         <p class="section__description">
-          Lorem ipsum dolor sit amet, <i><b>communication</b></i> adipisicing elit, <i><b>helpful</b></i> eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud <i><b>sence of
-          humour</b></i> ullamco laboris nisi ut <i><b>honest</b></i> ea commodo consequat. Duis aute irure dolor in
-          upper-intermediate english level velit  dolore eu ivivdtevoluptatem ontend developer.
+          Hard-working, <i><b>self-motivated</b></i>,  <i><b>creative</b></i> looking for an enriching Entry Level Web Developer position  to support a team in implementing bar-none user interaction following client-approved mock-ups, such as wireframes, visual design comprehensive layouts, and prototypes. 
+          Bringing a <i><b>keen eye</i></b> for details, strong ability to implement mock-ups, and understanding of great user experience design; <i><b>three years experience</i></b> in visual <i><b>UI / front-end development work, JavaScript, CSS,  JQuery and XHTML 1.1, Web Standard HTML5</i></b> and over 4 years of client service experience.
         </p>
       </div>
     </div>
@@ -14,26 +12,24 @@
       <div class="col-md-8 section__resume resume-list">
         <h3 class="resume-list_title">education</h3>
         <div class="resume-list__block">
-          <p class="resume-list__block-title">University of Minnesota Twin Cities </p>
-          <p class="resume-list__block-date">2006 - 2010</p>
+          <p class="resume-list__block-title">Concordia University Texas</p>
+          <p class="resume-list__block-date">2016-Present</p>
           <p>
-            Bachelor Computer Engineering Lorem
+            Working toward a Bachelors of Science in Computer Science
           </p>
         </div>
         <div class="resume-list__block">
-          <p class="resume-list__block-title">School of Informational technologies</p>
-          <p class="resume-list__block-date">2004 - 2005</p>
+          <p class="resume-list__block-title">Austin Community College</p>
+          <p class="resume-list__block-date">2015 - 2016</p>
           <p>
-            Awesome student, lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius-
-            mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+            Course work in Python and computer science 
           </p>
         </div>
         <div class="resume-list__block">
-          <p class="resume-list__block-title">Lorem Ipsum School</p>
+          <p class="resume-list__block-title">Lee College</p>
           <p class="resume-list__block-date">2003 - 2006</p>
           <p>
-            Student, Lorem ipsum dolor sit amet, consecte tur adipisicing elit, sed do eiusmod tempor
-            incididunt ut
+            Completed core curriculum 
           </p>
         </div>
       </div>
@@ -42,11 +38,19 @@
       <div class="col-md-8 section__resume resume-list">
         <h3 class="resume-list_title">employment</h3>
         <div class="resume-list__block">
-          <p class="resume-list__block-title">Apple</p>
-          <p class="resume-list__block-date">2006 - 2010</p>
-          <p>
-            Senior Full Stack Developer
-          </p>
+          <p class="resume-list__block-title">Brandmuscle, Inc.</p>
+          <p class="resume-list__block-date">2013 - 2017</p>
+          <ul><li>Fictional content</li>
+              <li>Fictional content</li>
+              <li>Fictional content</li>
+              <li>Fictional content</li>
+              <li>Fictional content</li>
+              <li>Fictional content</li>
+              <li>Fictional content</li>
+          </ul>
+          
+          
+          
         </div>
         <div class="resume-list__block">
           <p class="resume-list__block-title">Tech university</p>

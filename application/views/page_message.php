@@ -23,7 +23,7 @@
 <!-- Mobile menu -->
 
 <!--Header-->
-  <header class="main-header" style="background-image: url('file:///var/www/html/my_cv/assets/img/starynight.jpg');">
+  <header class="main-header" style="background-image: url('../assets/img/img_bg_header_2.jpg');">
 
     <?php $this->load->view('header');?>
   
