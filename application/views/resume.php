@@ -38,16 +38,24 @@
       <div class="col-md-8 section__resume resume-list">
         <h3 class="resume-list_title">employment</h3>
         <div class="resume-list__block">
-          <p class="resume-list__block-title">Brandmuscle, Inc.</p>
+          <p class="resume-list__block-title">Brandmuscle, Inc.- Account Executive</p>
           <p class="resume-list__block-date">2013 - 2017</p>
-          <ul><li>Fictional content</li>
-              <li>Fictional content</li>
-              <li>Fictional content</li>
-              <li>Fictional content</li>
-              <li>Fictional content</li>
-              <li>Fictional content</li>
-              <li>Fictional content</li>
+          <ul class="list_disc">
+              <li>Maintaining client / business-to-business relationships via client meetings and conference calls</li>
+              <li>Responsible for resolving financial data discrepancies above $1 million threshold for ongoing projects </li>
+              <li>Responsible for quarterly project scheduling and budget establishment and adherence</li>
+              <li>Coordinate staffing needs for project support while adhering to project launch schedules</li>
+              <li>Negotiated project schedule and budget with Program Director of Farmers </li>
+              <li>Designed and tested 260 hours worth of project design work to enable a end-user reporting tool</li>
+              <li>Formulated comprehensive test plans to implement reporting tool in adherence of launch schedule</li>
+              <li>Managed products on client site with enriched meta-data for optimal UX, HTML, CSS and DNS event log monitoring</li>
+              <li>Developed over 50 complex analytical queries in SQL to create graphic dashboards and reporting for the client to visualize their data in a meaningful way and solve discrepancies between data and web reporting</li>
+              <li>Resolved payment discrepancies and  transactional disputes valued over $300k</li>
+              <li>Analyzed invoicing process for North America to identify efficiencies</li>
+              <li>Managed  weekly meetings with team members across time zones and offices to coordinate projects and reconcile sales data issues</li>
+
           </ul>
+          
           
           
           
