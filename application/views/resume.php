@@ -61,7 +61,7 @@
           
         </div>
         <div class="resume-list__block">
-          <p class="resume-list__block-title">Tech university</p>
+          <p class="resume-list__block-title">Just Brakes</p>
           <p class="resume-list__block-date">2004 - 2005</p>
           <p>
             Awesome developer, lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius-
