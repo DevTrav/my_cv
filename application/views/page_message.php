@@ -23,10 +23,10 @@
 <!-- Mobile menu -->
 
 <!--Header-->
-  <header class="main-header" style="background-image: url('../assets/img/img_bg_header_2.jpg');">
+<header>
 
     <?php $this->load->view('header');?>
-  
+    
 </header>
 <!--Header-->
 

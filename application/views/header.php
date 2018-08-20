@@ -1,4 +1,5 @@
-    <div class="container">
+<header class="main-header" style="background-image: url('../assets/img/img_bg_header_2.jpg');"></header>
+<div class="container">
       <div class="row personal-profile">
         <div class="col-md-4 personal-profile__avatar">
           <img class="" src="http://via.placeholder.com/350x400" alt="avatar">
