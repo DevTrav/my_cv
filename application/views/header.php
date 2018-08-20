@@ -1,4 +1,4 @@
-<header class="main-header" style="background-image: url('../assets/img/img_bg_header_2.jpg');"></header>
+<header class="main-header" style="background-image: url('../assets/img/img_bg_header_2.jpg');">
 <div class="container">
       <div class="row personal-profile">
         <div class="col-md-4 personal-profile__avatar">
@@ -26,4 +26,4 @@
         </div>
       </div>
     </div>
-  
+  </header>
