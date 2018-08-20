@@ -19,7 +19,7 @@
     <div class="portfolio-cards">
       <div class="row project-card" data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="web-sites">
         <div class="col-md-6 col-lg-5 project-card__img">
-          <img class="" src="assets/img/img_project_1_mono.png" alt="project-img">
+          <img class="" src="assets/img/image_site.jpg" alt="project-img">
         </div>
         <div class="col-md-6 col-lg-7 project-card__info">
           <h3 class="project-card__title">Mobile and desktop app for London hostel store  </h3>
@@ -35,7 +35,7 @@
             <li>bower</li>
             <li>grunt</li>
           </ul>
-          <a href="" class="project-card__link">www.superapp.com</a>
+          <a href="" class="project-card__link">www.imageandgenius.com</a>
         </div>
       </div>
       <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="mobile apps">
