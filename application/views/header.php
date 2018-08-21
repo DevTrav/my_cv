@@ -2,15 +2,13 @@
 <div class="container">
       <div class="row personal-profile">
         <div class="col-md-4 personal-profile__avatar">
-          <img class="" src="http://via.placeholder.com/350x400" alt="avatar">
+          <img class="" src="url('../assets/img/profile_img.jpg');" alt="avatar">
         </div>
         <div class="col-md-8">
           <p class="personal-profile__name">Travers La Ville</p>
           <p class="personal-profile__work">Professional Problem Solver</p>
           <div class="personal-profile__contacts">
             <dl class="contact-list contact-list__opacity-titles">
-              <dt>Age:</dt>
-              <dd>35</dd>
               <dt>Phone:</dt>
               <dd><a href="tel:8329178602">(832)917-8602</a></dd>
               <dt>Email:</dt>

@@ -95,7 +95,7 @@
             </div>
         </div>
     </div>
-    <div class="row section__resume progress-list js-progress-list">
+    <!--<div class="row section__resume progress-list js-progress-list">
         <div class="col-md-12">
             <h3 class="progress-list__title">general skills</h3>
         </div>

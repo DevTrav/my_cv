@@ -57,10 +57,10 @@
   </div>
 <!--Testimonials-->
 
-<!--Blog-->
+<!--Blog
   <section>
-    <?php $this->load->view('blog');?>
-  </section>
+    <!--php $this->load->view('blog')-->
+  
 <!--Blog-->
 
 <!--Contact-->

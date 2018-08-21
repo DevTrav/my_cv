@@ -1,5 +1,5 @@
 <section id="blog" class="container section">
-    <div class="row">
+    <!--<div class="row">
       <div class="col-md-12">
         <h2 id="blog_header" class="section__title">Latest Posts_</h2>
       </div>
@@ -54,5 +54,5 @@
           </div>
         </a>
       </div>
-    </div>
+    <--</div>-->
   </section>

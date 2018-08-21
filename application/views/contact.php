@@ -10,19 +10,15 @@
           <div class="contacts__list">
             <dl class="contact-list">
               <dt>Phone:</dt>
-              <dd><a href="tel:82344563333">8 (234) 456-33-33</a></dd>
-              <dt>Skype:</dt>
-              <dd><a href="skype:iamivanovivan">iamivanovivan</a></dd>
+              <dd><a href="tel:82344563333">(832)917-8602</a></dd>
               <dt>Email:</dt>
-              <dd><a href="mailto:mail@mail.com">mail@mail.com</a></dd>
+              <dd><a href="mailto:mail@mail.com">info@lavillesolutions.com</a></dd>
             </dl>
           </div>
           <div class="contacts__social">
             <ul>
-              <li><a href="">Facebook</a></li>
-              <li><a href="">Linkedin</a></li>
-              <li><a href="">GitHub</a></li>
-              <li><a href="">Bitbucket</a></li>
+              <li><a href="Linkedin</a>https://www.linkedin.com/in/travers-la-ville-731b26138/"></li>
+              <li><a href="https://github.com/DevTrav">GitHub</a></li>
             </ul>
           </div>
         </div>
@@ -49,7 +45,7 @@
             </form>
           </div>
           <div class="footer">
-            <p>© 2016 Ivan Susanin. All Rights Reserved</p>
+            <p>© 2018 La Ville Solutions. All Rights Reserved</p>
           </div>
         </div>
       </div>
