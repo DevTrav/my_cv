@@ -17,7 +17,7 @@
           </div>
           <div class="contacts__social">
             <ul>
-              <li><a href="Linkedin</a>https://www.linkedin.com/in/travers-la-ville-731b26138/"></li>
+                <li><a href="https://www.linkedin.com/in/travers-la-ville-731b26138">LinkedIn</a></li>
               <li><a href="https://github.com/DevTrav">GitHub</a></li>
             </ul>
           </div>

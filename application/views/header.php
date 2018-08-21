@@ -18,8 +18,8 @@
             </dl>
           </div>
           <p class="personal-profile__social">
-            <a href="" target="_blank"><i class="fa fa-github"></i></a>
-            <a href="" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+            <a href="https://github.com/DevTrav" target="_blank"><i class="fa fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/travers-la-ville-731b26138/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
           </p>
         </div>
       </div>
