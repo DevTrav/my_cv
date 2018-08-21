@@ -9,7 +9,7 @@
         <nav>
           <ul>
             <li><a href="" data-portfolio-target-tag="all">all</a></li>
-            <li><a href="" data-portfolio-target-tag="mobile apps">mobile apps</a></li>
+            <!--<li><a href="" data-portfolio-target-tag="mobile apps">mobile apps</a></li>-->
             <li><a href="" data-portfolio-target-tag="web-sites">web-sites</a></li>
             <li><a href="" data-portfolio-target-tag="landing-pages">landing pages</a></li>
           </ul>

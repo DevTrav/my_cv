@@ -2,7 +2,7 @@
 <div class="container">
       <div class="row personal-profile">
         <div class="col-md-4 personal-profile__avatar">
-          <img class="" src="url('../assets/img/profile_img.jpg');" alt="avatar">
+          <img class="" src="('../assets/img/profile_img.jpg');" alt="avatar">
         </div>
         <div class="col-md-8">
           <p class="personal-profile__name">Travers La Ville</p>
