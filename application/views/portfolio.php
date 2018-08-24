@@ -22,18 +22,17 @@
           <img class="" src="assets/img/image_site.jpg" alt="project-img">
         </div>
         <div class="col-md-6 col-lg-7 project-card__info">
-          <h3 class="project-card__title">Mobile and desktop app for London hostel store  </h3>
+          <h3 class="project-card__title">Mobile responsive fan experience for musician Image and Genius</h3>
           <p class="project-card__description">
-            Do answered bachelor occasion in of offended no concerns. Supply worthy warmth branch of no ye.
-            Voice tried known to as my to. Though wished merits or be. Alone visit use these smart rooms ham.
+            This site is a social media hub, multi-media player and concert tracker with event countdown for the indie  hip hop connoisseur. Fully mobile responsive with a keen aesthetic.
           </p>
           <p class="project-card__stack">Used stack:</p>
           <ul class="tags">
             <li>html5</li>
             <li>css3</li>
             <li>JavaScript</li>
-            <li>bower</li>
-            <li>grunt</li>
+            <li>Ajax</li>
+            <li>PHP</li>
           </ul>
           <a href="" class="project-card__link">www.imageandgenius.com</a>
         </div>

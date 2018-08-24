@@ -27,7 +27,7 @@
             </div>
             <div class="resume-list__block">
                 <p class="resume-list__block-title">Lee College</p>
-                <p class="resume-list__block-date">2003 - 2006</p>
+                <p class="resume-list__block-date">2003 - 2009</p>
                 <p>
                     Completed core curriculum 
                 </p>
