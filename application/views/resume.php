@@ -39,7 +39,7 @@
             <h3 class="resume-list_title">employment</h3>
             <div class="resume-list__block">
                 <p class="resume-list__block-title">Brandmuscle, Inc.- Account Executive</p>
-                <p class="resume-list__block-date">2013 - 2017</p>
+                <p class="resume-list__block-date">2014 - 2017</p>
                 <ul class="list_disc">
                     <li>Maintaining client / business-to-business relationships via client meetings and conference calls</li>
                     <li>Responsible for resolving financial data discrepancies above $1 million threshold for ongoing projects </li>
@@ -62,7 +62,7 @@
             </div>
             <div class="resume-list__block">
                 <p class="resume-list__block-title">Just Brakes- Management/Service Writer</p>
-                <p class="resume-list__block-date">20012 - 2013</p>
+                <p class="resume-list__block-date">20013 - 2014</p>
                 <ul class="list_disc">
                     <li>Managed price-points for both the company and customer in accordance with corporate guidelines</li>
                     <li>Recovered over 20k in accounts receivable per month</li> 
@@ -74,7 +74,7 @@
             </div>
             <div class="resume-list__block">
                 <p class="resume-list__block-title">Connectivity Source- Service Technician Manager</p>
-                <p class="resume-list__block-date">2008- 2012</p>
+                <p class="resume-list__block-date">2009- 2013</p>
                 <ul class="list_disc">
                     <li>Improved a third-quintile location to a first-quintile store in under two months</li>
                     <li> Collaborated with more than 8 insurance companies to process approximately 1,000 cell phone claims per month</li>
