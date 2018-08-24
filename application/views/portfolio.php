@@ -22,7 +22,7 @@
           <img class="" src="assets/img/image_site.jpg" alt="project-img">
         </div>
         <div class="col-md-6 col-lg-7 project-card__info">
-          <h3 class="project-card__title">Mobile responsive fan experience for musician Image and Genius</h3>
+          <h3 class="project-card__title">Mobile responsive fan experience for musician </h3>
           <p class="project-card__description">
             This site is a social media hub, multi-media player and concert tracker with event countdown for the indie  hip hop connoisseur. Fully mobile responsive with a keen aesthetic.
           </p>
