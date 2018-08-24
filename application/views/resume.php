@@ -87,7 +87,7 @@
             </div>
              <div class="resume-list__block">
                 <p class="resume-list__block-title">La Ville Solutions- Owner</p>
-                <p class="resume-list__block-date">Present</p>
+                <p class="resume-list__block-date">2017-Present</p>
                 <ul class="list_disc">
                     <li> Manufactured a more dynamic web experience for Austin based businesses and artists by leveraging web languages with various solutioning tools</li>
                     <li> Consultant </li> 
