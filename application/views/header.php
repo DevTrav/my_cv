@@ -1,8 +1,8 @@
-<header class="main-header" style="background-image: url('../assets/img/emerge.jpg');">
+<header class="main-header" style="background-image: <?php echo get_asset_path('images','emerge.jpg')?>">
 <div class="container">
       <div class="row personal-profile">
         <div class="col-md-4 personal-profile__avatar">
-          <img class="" src="('../assets/img/profile_img.jpg');" alt="avatar">
+          <img src="<?php echo get_asset_path('images','profile_img.jpg')?>" alt="avatar">
         </div>
         <div class="col-md-8">
           <p class="personal-profile__name">Travers La Ville</p>
