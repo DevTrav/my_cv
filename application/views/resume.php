@@ -1,11 +1,7 @@
 <section id="resume" class="container section">
     <div class="row">
         <div class="col-md-10">
-            <h2 id="resume_header" class="section__title">Resume_</h2>
-            <p class="section__description">
-                Hard-working, <i><b>self-motivated</b></i>,  <i><b>creative</b></i> looking for an enriching Entry Level Web Developer position  to support a team in implementing bar-none user interaction following client-approved mock-ups, such as wireframes, visual design comprehensive layouts, and prototypes. 
-                Bringing a <i><b>keen eye</i></b> for details, strong ability to implement mock-ups, and understanding of great user experience design; <i><b>three years experience</i></b> in visual <i><b>UI / front-end development work, JavaScript, CSS,  JQuery and XHTML 1.1, Web Standard HTML5</i></b> and over 4 years of client service experience.
-            </p>
+            <h2 id="resume_header" class="section__title">Resume_</h2> 
         </div>
     </div>
     <div class="row">
