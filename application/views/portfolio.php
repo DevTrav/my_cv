@@ -9,7 +9,7 @@
         <nav>
           <ul>
             <li><a href="" data-portfolio-target-tag="all">all</a></li>
-            <!--<li><a href="" data-portfolio-target-tag="mobile apps">mobile apps</a></li>-->
+            <li><a href="" data-portfolio-target-tag="e-commerce">e-commerce</a></li>
             <li><a href="" data-portfolio-target-tag="web-sites">web-sites</a></li>
             <li><a href="" data-portfolio-target-tag="landing-pages">landing pages</a></li>
           </ul>
@@ -37,48 +37,43 @@
           <a href="" class="project-card__link">www.imageandgenius.com</a>
         </div>
       </div>
-      <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="mobile apps">
+      <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="landing-pages">
         <div class="col-md-6 col-lg-5 project-card__img">
           <img src= "<?php echo get_asset_path('images','coming_soon_img940.jpg'); ?>" alt="coming soon" />
         </div>
         <div class="col-md-6 col-lg-7 project-card__info">
-          <h3 class="project-card__title"></h3>
+          <h3 class="project-card__title">Voice Actor Website</h3>
           <p class="project-card__description">
-            Preference any astonished unreserved mrs. Prosperous understood middletons in conviction an
-             uncommonly do. Supposing so be resolving breakfast am or perfectly. Is drew am hill from mr.
-          </p>
+            This landing page will serve as a custom, fully responsive, multimedia voice-acting portfolio on WordPress.</p>
           <p class="project-card__stack">Used stack:</p>
           <ul class="tags">
             <li>html5</li>
             <li>css3</li>
-            <li>JavaScript</li>
-            <li>BEM</li>
-            <li>bower</li>
-            <li>grunt</li>
+            <li>PHP</li>
+            <li>WordPress</li>
+            <li>JavaScipt</li>
           </ul>
-          <a href="" class="project-card__link">www.travellend.com</a>
+          <a href="" class="project-card__link">TBD</a>
         </div>
       </div>
-      <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="landing-pages">
+      <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="e-commerce">
         <div class="col-md-6 col-lg-5 project-card__img">
         <img class="" src="<?php echo get_asset_path('images','coming_soon_img940.jpg'); ?>" alt="coming soon">
       </div>
         <div class="col-md-6 col-lg-7 project-card__info">
-        <h3 class="project-card__title">Admin template for Photo Service</h3>
+        <h3 class="project-card__title">Health and Beauty E-Commerce Store</h3>
         <p class="project-card__description">
-          Do answered bachelor occasion in of offended no concerns. Supply worthy warmth branch of no ye.
-          Voice tried known to as my to. Though wished merits or be. Alone visit use these smart rooms ham.
+            This e-commerce store was built with cohesive branding, inventory optimization and a "customer-first" online shopping experience. 
         </p>
         <p class="project-card__stack">Used stack:</p>
         <ul class="tags">
           <li>html5</li>
           <li>css3</li>
+          <li>PHP</li>
+          <li>Magento</li>
           <li>JavaScript</li>
-          <li>BEM</li>
-          <li>bower</li>
-          <li>grunt</li>
         </ul>
-        <a href="" class="project-card__link">www.coolphoto.com</a>
+        <a href="" class="project-card__link">TBD</a>
       </div>
       </div>
     </div>
