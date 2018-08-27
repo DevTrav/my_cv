@@ -39,7 +39,7 @@
       </div>
       <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="mobile apps">
         <div class="col-md-6 col-lg-5 project-card__img">
-          <img src= "<?php echo get_asset_path('images','coming_soon_img.jpg'); ?>" alt="coming soon" />
+          <img src= "<?php echo get_asset_path('images','coming_soon_img940.jpg'); ?>" alt="coming soon" />
         </div>
         <div class="col-md-6 col-lg-7 project-card__info">
           <h3 class="project-card__title"></h3>
@@ -61,7 +61,7 @@
       </div>
       <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="landing-pages">
         <div class="col-md-6 col-lg-5 project-card__img">
-        <img class="" src="<?php echo get_asset_path('images','coming_soon_img.jpg'); ?>" alt="coming soon">
+        <img class="" src="<?php echo get_asset_path('images','coming_soon_img940.jpg'); ?>" alt="coming soon">
       </div>
         <div class="col-md-6 col-lg-7 project-card__info">
         <h3 class="project-card__title">Admin template for Photo Service</h3>
