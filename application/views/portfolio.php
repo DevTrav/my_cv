@@ -63,7 +63,7 @@
         <div class="col-md-6 col-lg-7 project-card__info">
         <h3 class="project-card__title">Health and Beauty E-Commerce Store</h3>
         <p class="project-card__description">
-            This e-commerce store was built with cohesive branding, inventory optimization and a "customer-first" online shopping experience. 
+            This e-commerce store was built with cohesive branding, inventory optimization and a "customer-first" online shopping experience in mind. 
         </p>
         <p class="project-card__stack">Used stack:</p>
         <ul class="tags">
