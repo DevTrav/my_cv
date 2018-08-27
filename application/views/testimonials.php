@@ -1,4 +1,4 @@
-<div id="testimonials" class="section">
+<!--<div id="testimonials" class="section">
     <div class="background slider-carousel" style="background-image: url(assets/img/img_bg_main.jpg);">
       <div class="container">
         <div id="carouselTestimonials" class="carousel slide" data-ride="carousel">
