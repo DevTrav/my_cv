@@ -19,7 +19,7 @@
     <div class="portfolio-cards">
       <div class="row project-card" data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="web-sites">
         <div class="col-md-6 col-lg-5 project-card__img">
-            <img src="<?php echo get_asset_path('images','img_project_1_mono.png'); ?>" alt="musician photo" />
+            <img src="<?php echo get_asset_path('images','image_site.jpg'); ?>" alt="musician photo" />
         </div>
         <div class="col-md-6 col-lg-7 project-card__info">
           <h3 class="project-card__title">Mobile responsive fan experience for musician </h3>
@@ -39,7 +39,7 @@
       </div>
       <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="mobile apps">
         <div class="col-md-6 col-lg-5 project-card__img">
-          <img src= "<?php echo get_asset_path('images','img_project_1_mono.png'); ?>" alt="coming soon" />
+          <img src= "<?php echo get_asset_path('images','coming_soon_img.jpg'); ?>" alt="coming soon" />
         </div>
         <div class="col-md-6 col-lg-7 project-card__info">
           <h3 class="project-card__title"></h3>
@@ -61,7 +61,7 @@
       </div>
       <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="landing-pages">
         <div class="col-md-6 col-lg-5 project-card__img">
-        <img class="" src="<?php echo get_asset_path('images','img_project_1_mono.png'); ?>" alt="coming soon">
+        <img class="" src="<?php echo get_asset_path('images','coming_soon_img.jpg'); ?>" alt="coming soon">
       </div>
         <div class="col-md-6 col-lg-7 project-card__info">
         <h3 class="project-card__title">Admin template for Photo Service</h3>
