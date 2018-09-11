@@ -34,12 +34,12 @@
             <li>Ajax</li>
             <li>PHP</li>
           </ul>
-          <a href="" class="project-card__link">www.imageandgenius.com</a>
+          <a href="http://www.imageandgenius.com" class="project-card__link">www.imageandgenius.com</a>
         </div>
       </div>
-      <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="landing-pages">
+      <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal2" data-portfolio-tag="landing-pages">
         <div class="col-md-6 col-lg-5 project-card__img">
-          <img src= "<?php echo get_asset_path('images','coming_soon_img940.jpg'); ?>" alt="coming soon" />
+          <img src="<?php echo get_asset_path('images','coming_soon_img940.jpg'); ?>" alt="coming soon" />
         </div>
         <div class="col-md-6 col-lg-7 project-card__info">
           <h3 class="project-card__title">Voice Actor Website</h3>
@@ -56,7 +56,7 @@
           <a href="" class="project-card__link">TBD</a>
         </div>
       </div>
-      <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="e-commerce">
+      <div class="row project-card"  data-toggle="modal" data-target="#portfolioModal3" data-portfolio-tag="e-commerce">
         <div class="col-md-6 col-lg-5 project-card__img">
         <img class="" src="<?php echo get_asset_path('images','coming_soon_img940.jpg'); ?>" alt="coming soon">
       </div>

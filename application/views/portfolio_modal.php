@@ -1,4 +1,4 @@
-<div <!--class="modal fade portfolio-modal" id="portfolioModal" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal fade portfolio-modal" id="portfolioModal" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -7,20 +7,14 @@
         </button>
       </div>
       <div class="modal-body col-md-11 col-lg-9 ml-auto mr-auto">
-        <p class="portfolio-modal__title">Mobile and desktop app for London hostel store</p>
-        <img class="portfolio-modal__img" src="assets/img/img_project_1_mono.png" alt="modal_img">
+        <p class="portfolio-modal__title">Image and Genius</p>
+        <img class="portfolio-modal__img" src="<?php echo get_asset_path('images','image_site.jpg'); ?>" alt="musician photo" />
         <p class="portfolio-modal__description">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt utlabore et
-          dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamcolaboris nisi ut aliquip ex
-          ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-          nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-          anim id est laborum. Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium doloremque
-          laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-          dicta sunt explicabo.Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-          conse.
+            This site is a social media hub, multi-media player and concert tracker with event countdown for the indie  hip hop connoisseur. Fully mobile responsive with a keen aesthetic.
+
         </p>
         <div class="portfolio-modal__link">
-          <a href="">www.superapp.com</a>
+          <a href="http://www.imageandgenius.com">www.imageandgenius.com</a>
         </div>
         <div  class="portfolio-modal__stack">
           <p class="portfolio-modal__stack-title">Using stack:</p>
@@ -28,8 +22,72 @@
             <li>html5</li>
             <li>css3</li>
             <li>JavaScript</li>
-            <li>bower</li>
-            <li>grunt</li>
+            <li>Ajax</li>
+            <li>PHP</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade portfolio-modal" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body col-md-11 col-lg-9 ml-auto mr-auto">
+        <p class="portfolio-modal__title">Voice Actor Website</p>
+        <img class="portfolio-modal__img" src="<?php echo get_asset_path('images','coming_soon_img940.jpg'); ?>" alt="coming soon" />
+        <p class="portfolio-modal__description">
+            This landing page will serve as a custom, fully responsive, multimedia voice-acting portfolio on WordPress.</p>
+
+        </p>
+        <div class="portfolio-modal__link">
+          <a href="">TBD</a>
+        </div>
+        <div  class="portfolio-modal__stack">
+          <p class="portfolio-modal__stack-title">Using stack:</p>
+          <ul class="tags">
+            <li>html5</li>
+            <li>css3</li>
+            <li>JavaScript</li>
+            <li>WordPress</li>
+            <li>PHP</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade portfolio-modal" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body col-md-11 col-lg-9 ml-auto mr-auto">
+        <p class="portfolio-modal__title">Health And Beauty E-Commerce Store</p>
+        <img class="portfolio-modal__img" src="<?php echo get_asset_path('images','coming_soon_img940.jpg'); ?>" alt="coming soon" />
+        <p class="portfolio-modal__description">
+            This e-commerce store was built with cohesive branding, inventory optimization and a "customer-first" online shopping experience in mind. 
+
+        </p>
+        <div class="portfolio-modal__link">
+          <a href="">TBD</a>
+        </div>
+        <div  class="portfolio-modal__stack">
+          <p class="portfolio-modal__stack-title">Using stack:</p>
+          <ul class="tags">
+            <li>html5</li>
+            <li>css3</li>
+            <li>JavaScript</li>
+            <li>Magento</li>
+            <li>PHP</li>
           </ul>
         </div>
       </div>
