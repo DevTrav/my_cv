@@ -25,19 +25,20 @@
         <div class="col-md-7 col-lg-5">
           <div class="contacts__form">
             <p class="contacts__form-title">Or just write me a letter here_</p>
-            <form class="js-form">
+            <form action="<?php echo site_url('form/contact');?>" method="post">
+               
               <div class="form-group">
-                <input class="form-field js-field-name" type="text" placeholder="Your name" required>
+                <input class="form-field js-field-name" type="text" placeholder="Your name" id="contact_name" name="contact_name" required>
                 <span class="form-validation"></span>
                 <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
               </div>
               <div class="form-group">
-                <input class="form-field js-field-email" type="email"  placeholder="Your e-mail" required>
+                  <input class="form-field js-field-email" type="email" id="contact_email" name="contact_email" placeholder="Your e-mail" required>
                 <span class="form-validation"></span>
                 <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
               </div>
               <div class="form-group">
-                <textarea class="form-field js-field-message" placeholder="Type the message here" required></textarea>
+                  <textarea class="form-field js-field-message" placeholder="Type the message here" id="contact_message" name="contact_message"required></textarea>
                 <span class="form-validation"></span>
                 <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
               </div>

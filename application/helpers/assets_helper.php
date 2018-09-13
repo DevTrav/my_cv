@@ -122,7 +122,7 @@ if (!function_exists('get_email_address'))
      */    
     function get_email_address()
     {
-        $email_address = "jumorrow@protonmail.com";
+        $email_address = "info@lavillesolutions.com";
         return $email_address;
     }   
     
@@ -136,7 +136,7 @@ if (!function_exists('get_phone_number'))
      */    
     function get_phone_number()
     {
-        $phone_number = "773-543-5880";
+        $phone_number = "832-917-8602";
         return $phone_number;
     }   
     
