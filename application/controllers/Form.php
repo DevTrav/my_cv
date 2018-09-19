@@ -2,17 +2,14 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Form extends CI_Controller {
- 
-    
+
    /**
      * Contact Action
      *
      * @return $this
      */
-    
     public function contact()
     {
-        
         $contact_name = $this->input->post('contact_name');
         $contact_email = $this->input->post('contact_email');
         //$contact_subject = $this->input->post('contact_subject');
@@ -27,11 +24,10 @@ class Form extends CI_Controller {
             
             //redirect back to home page and display flash message
             //redirect();
-            die('something is wrong');
+            die("Something went wrong");
             
         } else {
-            mail("info@lavillesoutions.com", "testing from local", "use case positive");
-            die("mail sent");
+            
             //host gator does not support mail or SMTP, only sendmail
             //manually enforce this config
             $config['protocol'] = 'sendmail';
@@ -44,21 +40,22 @@ class Form extends CI_Controller {
             $this->email->set_newline("\r\n");
             
             //the from must be an existing email address on the host server
-            $this->email->from('jmorrow@gator4095.hostgator.com', 'Contact Form');
+            $this->email->from('tlaville@gator4269.hostgator.com', 'Contact Form');
             $this->email->to($contact_to); 
             $this->email->reply_to($contact_email, $contact_name);
 
-            $this->email->subject($contact_subject);
+            //$this->email->subject($contact_subject);
             $this->email->message($contact_message); 
             
             //send the email
             $this->email->send();
  
             //set flash data for error/success 
-            $this->session->set_flashdata('message', '<style>div.banner-hide {display:none;}</style><div class="banner-text"><h1 class="responsive-headline">Got Your Message!</h1><br /><h3>You will hear from me shortly.</h3></div>');
+            //$this->session->set_flashdata('message', '<style>div.banner-hide {display:none;}</style><div class="banner-text"><h1 class="responsive-headline">Got Your Message!</h1><br /><h3>You will hear from me shortly.</h3></div>');
             
             //redirect back to home page and display flash message
-            redirect();
+            //redirect();
+            die("email was sent");
             }
     }
 }
