@@ -58,7 +58,7 @@
             </div>
             <div class="resume-list__block">
                 <p class="resume-list__block-title">Just Brakes- Management/Service Writer</p>
-                <p class="resume-list__block-date">20013 - 2014</p>
+                <p class="resume-list__block-date">2013 - 2014</p>
                 <ul class="list_disc">
                     <li>Managed price-points for both the company and customer in accordance with corporate guidelines</li>
                     <li>Recovered over 20k in accounts receivable per month</li> 
