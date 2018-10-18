@@ -36,15 +36,18 @@
             <div class="resume-list__block">
                 <p class="resume-list__block-title">Brandmuscle, Inc.- Account Executive</p>
                 <p class="resume-list__block-date">2014 - 2017</p>
+                <p><strong>Client Service Representative</strong></p>
                 <ul class="list_disc">
                     <li>Maintaining client / business-to-business relationships via client meetings and conference calls</li>
                     <li>Responsible for resolving financial data discrepancies above $1 million threshold for ongoing projects </li>
                     <li>Responsible for quarterly project scheduling and budget establishment and adherence</li>
                     <li>Coordinate staffing needs for project support while adhering to project launch schedules</li>
+                    <p><strong>Project Lead, Marketing Reporting Suite</strong></p>
                     <li>Negotiated project schedule and budget with Program Director of Farmers </li>
                     <li>Designed and tested 260 hours worth of project design work to enable a end-user reporting tool</li>
                     <li>Formulated comprehensive test plans to implement reporting tool in adherence of launch schedule</li>
                     <li>Managed products on client site with enriched meta-data for optimal UX, HTML, CSS and DNS event log monitoring</li>
+                    <p><strong>Business Analyst, Account Reconciliation </strong></p>
                     <li>Developed over 50 complex analytical queries in SQL to create graphic dashboards and reporting for the client to visualize their data in a meaningful way and solve discrepancies between data and web reporting</li>
                     <li>Resolved payment discrepancies and  transactional disputes valued over $300k</li>
                     <li>Analyzed invoicing process for North America to identify efficiencies</li>
@@ -75,6 +78,7 @@
                     <li>Improved a third-quintile location to a first-quintile store in under two months</li>
                     <li> Collaborated with more than 8 insurance companies to process approximately 1,000 cell phone claims per month</li>
                     <li>Created training procedures to on-board more than 20 additional employees </li>
+                    <p><strong>Service Technician</strong></p>
                     <li> Promoted to Service Technician Manager after 6 weeks </li>
                     <li> Maintained accurate billing records to process insurance claims</li>
                     <li> Received Sprint Service Technician certification</li>
