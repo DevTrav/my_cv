@@ -37,6 +37,11 @@
                 <span class="form-validation"></span>
                 <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
               </div>
+               <div class="form-group">
+                    <input class="form-field js-field-email" type="text" id="contact_subject" name="contact_subject" placeholder="Subject" required>
+                <span class="form-validation"></span>
+                <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
+              </div>
               <div class="form-group">
                   <textarea class="form-field js-field-message" placeholder="Type the message here" id="contact_message" name="contact_message"required></textarea>
                 <span class="form-validation"></span>
