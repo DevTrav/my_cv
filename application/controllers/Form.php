@@ -12,7 +12,7 @@ class Form extends CI_Controller {
     {
         $contact_name = $this->input->post('contact_name');
         $contact_email = $this->input->post('contact_email');
-        //$contact_subject = $this->input->post('contact_subject');
+        $contact_subject = $this->input->post('contact_subject');
         $contact_message = $this->input->post('contact_message');
         //$contact_validate = $this->input->post('contact_validate');
         $contact_to = get_email_address();

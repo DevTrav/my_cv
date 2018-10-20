@@ -80,7 +80,7 @@ if (!function_exists('get_linkedin_url'))
      */    
     function get_linkedin_url()
     {
-        $linkedin_url = "https://www.linkedin.com/in/justin-morrow-a957442b";
+        $linkedin_url = "https://www.linkedin.com/in/travers-la-ville-731b26138/";
         return $linkedin_url;
     }   
     
