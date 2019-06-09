@@ -18,9 +18,9 @@
                 </ul>
             </div>
             <div class="resume-list__block">
-                <p class="resume-list__block-title"><strong>Brandmuscle, Inc.- Account Executive</strong></p>
+                <p class="resume-list__block-title"><strong>Brandmuscle, Inc.- Multiple Positions</strong></p>
                 <p class="resume-list__block-date">2014 - 2017</p>
-                <p><strong>Multiple Positions</strong></p>
+                
                 <p><strong>Project Lead/Project Manager, Marketing Reporting Suite</strong></p>
                 <ul class="list_disc">
                     <li>Managed multiple technical marketing projects for many Enterprise Customers (BMW, Sprint, Farmers)</li>
@@ -225,10 +225,10 @@
             <div class="progress-list__skill">
                 <p>
                     <span class="progress-list__skill-title">wordpress</span>
-                    <span class="progress-list__skill-value">80%</span>
+                    <span class="progress-list__skill-value">60%</span>
                 </p>
                 <div class="progress">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
                     </div>
                     </div>
                 </div>
@@ -237,10 +237,10 @@
             <div class="progress-list__skill">
                 <p>
                     <span class="progress-list__skill-title">drupal</span>
-                    <span class="progress-list__skill-value">60%</span>
+                    <span class="progress-list__skill-value">40%</span>
                 </p>
                 <div class="progress">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
                     </div>
                     </div>
                 </div>
