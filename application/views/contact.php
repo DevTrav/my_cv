@@ -51,7 +51,7 @@
             </form>
           </div>
           <div class="footer">
-            <p>© 2018 La Ville Solutions. All Rights Reserved</p>
+            <p>© <?php echo date("Y"); ?> La Ville Solutions. All Rights Reserved</p>
           </div>
         </div>
       </div>
