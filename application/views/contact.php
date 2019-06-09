@@ -10,15 +10,15 @@
           <div class="contacts__list">
             <dl class="contact-list">
               <dt>Phone:</dt>
-              <dd><a href="tel:82344563333">(832)917-8602</a></dd>
+              <dd><a href="tel:<?php echo get_phone_number();?>"><?php echo get_phone_number();?></a></dd>
               <dt>Email:</dt>
-              <dd><a href="mailto:mail@mail.com">info@lavillesolutions.com</a></dd>
+              <dd><a href="mailto:<?php echo get_email_address();?>"><?php echo get_email_address();?></a></dd>
             </dl>
           </div>
           <div class="contacts__social">
             <ul>
-                <li><a href="https://www.linkedin.com/in/travers-la-ville-731b26138">LinkedIn</a></li>
-              <li><a href="https://github.com/DevTrav">GitHub</a></li>
+                <li><a href="<?php echo get_linkedin_url();?>">LinkedIn</a></li>
+              <li><a href="<?php echo get_github_url();?>">GitHub</a></li>
             </ul>
           </div>
         </div>
@@ -51,7 +51,7 @@
             </form>
           </div>
           <div class="footer">
-            <p>© <?php echo date("Y"); ?> La Ville Solutions. All Rights Reserved</p>
+            <p>© <?php echo get_current_year(); ?> La Ville Solutions. All Rights Reserved</p>
           </div>
         </div>
       </div>

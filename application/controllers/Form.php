@@ -55,7 +55,8 @@ class Form extends CI_Controller {
             
             //redirect back to home page and display flash message
             //redirect();
-            die("email was sent");
+            $message = 'E-Mail Was Sent. Thank You. Click <a href="http://lavillesolutions.com">here</a> to return home.'
+            die($message);
             }
     }
 }

@@ -10,16 +10,16 @@
           <div class="personal-profile__contacts">
             <dl class="contact-list contact-list__opacity-titles">
               <dt>Phone:</dt>
-              <dd><a href="tel:8329178602">(832)917-8602</a></dd>
+              <dd><a href="tel:<?php echo get_phone_number();?>"><?php echo get_phone_number();?></a></dd>
               <dt>Email:</dt>
-              <dd><a href="mailto:mail@mail.com">info@lavillesolutions.com</a></dd>
+              <dd><a href="mailto:<?php echo get_email_address();?>"><?php echo get_email_address();?></a></dd>
               <dt>Address:</dt>
               <dd>Austin, Texas </dd>
             </dl>
           </div>
           <p class="personal-profile__social">
-            <a href="https://github.com/DevTrav" target="_blank"><i class="fa fa-github"></i></a>
-            <a href="https://www.linkedin.com/in/travers-la-ville-731b26138/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+            <a href="<?php echo get_github_url();?>" target="_blank"><i class="fa fa-github"></i></a>
+            <a href="<?php echo get_linkedin_url();?>" target="_blank"><i class="fa fa-linkedin-square"></i></a>
           </p>
         </div>
       </div>

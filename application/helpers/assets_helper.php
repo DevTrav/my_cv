@@ -1,12 +1,13 @@
 <?php 
 /**
- * MorrowInteractive Helper
+ * La Ville Solutions Helper
  * 
  * This helper includes various methods to help with generating dynamic URLS 
  * throughout the application.
  *
  * @package CodeIgniter
  * @author  Justin Morrow <jumorrow@protonmail.com>
+ * @author  Travers La Ville <info@lavillesolutions.com>
  */
 if (!defined('BASEPATH')) exit('No direct script access allowed');
 
@@ -138,6 +139,21 @@ if (!function_exists('get_phone_number'))
     {
         $phone_number = "832-917-8602";
         return $phone_number;
+    }   
+    
+}
+
+if (!function_exists('get_github_url'))
+{
+    /**
+     * Return url
+     *
+     * @return  string
+     */    
+    function get_github_url()
+    {
+        $github_url = "https://github.com/DevTrav";
+        return $github_url;
     }   
     
 }
