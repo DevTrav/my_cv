@@ -153,7 +153,7 @@ if (!function_exists('get_github_url'))
     function get_github_url()
     {
         $github_url = "https://github.com/DevTrav";
-        return $github;
+        return $github_url;
     }   
     
 }
