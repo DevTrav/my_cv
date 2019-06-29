@@ -12,6 +12,7 @@
             <li><a href="" data-portfolio-target-tag="e-commerce">e-commerce</a></li>
             <li><a href="" data-portfolio-target-tag="web-sites">web-sites</a></li>
             <li><a href="" data-portfolio-target-tag="landing-pages">landing pages</a></li>
+            <li><a href="" data-portfolio-target-tag="apps">apps</a></li>
           </ul>
         </nav>
       </div>
