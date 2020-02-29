@@ -86,7 +86,6 @@
   <script src="assets/js/slider-carousel.js"></script>
   <script src="assets/js/mobile-menu.js"></script>
   <script src="https://www.google.com/recaptcha/api.js?render=_reCAPTCHA_6Lflgd0UAAAAAOziDbNT74cHQe6I4vbFRy5zJjwP"></script>
-<script>
   <script src="assets/js/contacts.js"></script>
   <script src="assets/js/mbclicker.min.js"></script>
   <script src="assets/js/site-btn.js"></script>
